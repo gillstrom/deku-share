@@ -1,4 +1,4 @@
-# deku-share
+# deku-share [![Build Status](https://travis-ci.org/gillstrom/deku-share.svg?branch=master)](https://travis-ci.org/gillstrom/deku-share)
 
 > Social media share link components for deku
 
